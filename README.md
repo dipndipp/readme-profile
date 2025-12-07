@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nadhif and I'm a Software Engineer, from Jakarta, Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Nadhif and I'm a Fullstack Developer, from Jakarta, Indonesia</h2>
 
 ###
 
